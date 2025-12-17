@@ -80,7 +80,7 @@ By working through these exercises, you'll:
 - Learn about lambda functions
 - Learn functional programming patterns
 - Learn list and dictionary comprehensions
-- Learn about closures and variable scoping
+- Learn about closures
 - Learn function composition and pipelines
 - Discover Python operators and techniques
 
