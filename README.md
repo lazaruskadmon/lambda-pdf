@@ -6,7 +6,7 @@ This repository is created specifically for beginners who want to learn about **
 
 ## What's Inside the PDF?
 
-The **lambda.pdf** file contains a comprehensive workbook with **45 exercises** covering:
+The **lambda.pdf** file contains a comprehensive workbook with **45 exercises** to help you learn:
 
 ### 📚 Topics Covered:
 
